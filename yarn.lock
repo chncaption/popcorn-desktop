@@ -7805,25 +7805,13 @@ video-name-parser@^1.4.6:
   resolved "https://registry.yarnpkg.com/video-name-parser/-/video-name-parser-1.4.6.tgz#8e7926ab2ba9253fed290b399e453d3b0702c687"
   integrity sha512-ZdeYjh8X4ms1EzjY/UoiTZ6JWbi8SYyOPGY0jESSLq2BAmdc5sZHi+F8J19Qz0y7H1WSpaltojsCkO1p2dH4YA==
 
-video.js@4.11.4:
-  version "4.11.4"
-  resolved "https://registry.yarnpkg.com/video.js/-/video.js-4.11.4.tgz#b7834854aacb48613317be0afe128f0ded99f5c6"
-  integrity sha1-t4NIVKrLSGEzF74K/hKPDe2Z9cY=
-  dependencies:
-    videojs-swf "4.5.3"
-
-video.js@^4.12.5:
+video.js@4.12.15, video.js@^4.12.5:
   version "4.12.15"
   resolved "https://registry.yarnpkg.com/video.js/-/video.js-4.12.15.tgz#290efe30f99dc9a4ace8c773dec254dfee434de7"
   integrity sha1-KQ7+MPmdyaSs6Mdz3sJU3+5DTec=
   dependencies:
     videojs-swf "4.7.5"
     vtt.js "git+https://github.com/gkatsev/vtt.js.git#vjs-v0.12.1"
-
-videojs-swf@4.5.3:
-  version "4.5.3"
-  resolved "https://registry.yarnpkg.com/videojs-swf/-/videojs-swf-4.5.3.tgz#978b1e06b1f5b23c3cd5ca50453fffb00d2d8a82"
-  integrity sha1-l4seBrH1sjw81cpQRT//sA0tioI=
 
 videojs-swf@4.7.5:
   version "4.7.5"
