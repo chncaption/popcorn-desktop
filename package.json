@@ -59,7 +59,7 @@
     "butter-sanitize": "^0.1.1",
     "butter-settings-popcorntime.app": "0.0.9",
     "chromecast-api": "0.3.4",
-    "dayjs": "^1.10.6",
+    "dayjs": "^1.11.9",
     "dlnacasts2": "0.2.0",
     "edit-json-file": "^1.4.1",
     "flag-icon-css": "^3.5.0",
