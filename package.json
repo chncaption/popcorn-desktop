@@ -81,7 +81,7 @@
     "postinstall-postinstall": "^2.1.0",
     "q": "2.0.3",
     "querystring": "^0.2.0",
-    "readdirp": "2.x.x",
+    "readdirp": "3.0.0",
     "request": "2.88.x",
     "rimraf": "^3.0.0",
     "sanitizer": "0.x.x",
