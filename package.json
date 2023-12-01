@@ -83,7 +83,7 @@
     "querystring": "^0.2.0",
     "readdirp": "2.x.x",
     "request": "2.88.x",
-    "rimraf": "^3.0.0",
+    "rimraf": "^4.0.0",
     "sanitizer": "0.x.x",
     "semver": "^5.7.1",
     "send": "^0.17.1",
@@ -99,7 +99,7 @@
     "urijs": "^1.19.11",
     "video.js": "4.11.4",
     "videojs-youtube": "1.2.10",
-    "webtorrent": "^1.5.8",
+    "webtorrent": "^1.9.0",
     "webtorrent-health": "1.x.x"
   },
   "devDependencies": {
